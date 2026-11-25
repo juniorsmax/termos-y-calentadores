@@ -1,0 +1,23 @@
+# [MARCA]
+
+> Instalación y cambio de termos eléctricos y calentadores de agua en Barcelona y su área metropolitana.
+
+## Servicios
+- Cambio de termo eléctrico en el mismo punto
+- Instalación de termo con cambio de ubicación (presupuesto aparte)
+- Cambio de calentadores de agua y paso de gas a termo eléctrico
+
+## Condiciones
+- Visita sin coste en las zonas de servicio
+- Retirada gratis del aparato antiguo al instalar uno nuevo
+- Precio cerrado por escrito, con el IVA desglosado
+- No incluido en la instalación básica: cambio de ubicación, tomas nuevas, circuito eléctrico propio, albañilería
+
+## Zonas
+- [Barcelona](https://juniorsmax.github.io/termos-y-calentadores/barcelona/): los 10 distritos
+- [L'Hospitalet de Llobregat](https://juniorsmax.github.io/termos-y-calentadores/hospitalet/)
+- [Badalona](https://juniorsmax.github.io/termos-y-calentadores/badalona/)
+- [Área metropolitana](https://juniorsmax.github.io/termos-y-calentadores/area-metropolitana/)
+
+## Contacto
+- [Formulario de presupuesto](https://juniorsmax.github.io/termos-y-calentadores/#presupuesto)
